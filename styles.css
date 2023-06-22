@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-body,html{
+body,html, .holder{
 	height:100%;
 }
 .item-1{
@@ -11,7 +11,7 @@ body,html{
 	padding-top:36px;
 	box-sizing:border-box;
 }
-body{
+.holder{
 	display:flex;
 	justify-content:center;
 	align-items:center;
